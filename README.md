@@ -25,15 +25,11 @@ After graduation, I aspire to become a Data Scientist. I’m excited to tackle p
 
 ## Exercise 3: [Data visualization critique #1](data-visualization-critique-#1)
 
-
 ## Assignment 1: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
 
 1. [Part I](final-project-part-one)
 2. [Part II](final-project-part-two)
