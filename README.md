@@ -8,7 +8,6 @@ I’m passionate about healthcare data analytics. I aim to leverage my expertise
 
 Apart from my academic and professional pursuits, I love hiking and playing cricket.
 
----
 # What I hope to learn
 Through this course, I want to be able to:
 
@@ -39,7 +38,6 @@ Here it might be helpful to include a high-level description of your final proje
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
 
----
 # References
 _List any references you used here._
 
