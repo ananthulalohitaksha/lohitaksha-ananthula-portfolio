@@ -7,6 +7,8 @@ I’m passionate about healthcare data analytics. I aim to leverage my expertise
 
 Apart from my academic and professional pursuits, I love hiking and playing cricket.
 
+---
+
 # What I hope to learn
 Through this course, I want to be able to:
 
@@ -15,6 +17,8 @@ Through this course, I want to be able to:
 3. Gain hands-on experience with tools and techniques to create interactive data visualizations.
 
 After graduation, I aspire to become a Data Scientist. I’m excited to tackle projects that involve data science and machine learning. I look forward to working with diverse teams and continuing to deepen my technical skills while making a tangible impact.
+
+---
 
 # Portfolio
 
