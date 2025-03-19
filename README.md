@@ -19,11 +19,11 @@ After graduation, I aspire to become a Data Scientist. I’m excited to tackle p
 
 # Portfolio
 
-## Exercise 1- Controlling Color Workbook
+## Exercise 1: Controlling Color Workbook
 
-## Exercise 2- Crafting for Clarity Workbook
+## Exercise 2: Crafting for Clarity Workbook
 
-## Exercise 3- Data visualization critique #1
+## Exercise 3: Data visualization critique #1
 
 
 ## Assignment 1: [Visualizing overnment Debt](visualizing-government-debt)
@@ -37,10 +37,6 @@ Here it might be helpful to include a high-level description of your final proje
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
-
-# Projects & Experience
-
-# Skills & Tools
 
 ---
 # References
