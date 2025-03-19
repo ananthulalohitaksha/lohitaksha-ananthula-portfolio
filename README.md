@@ -8,6 +8,7 @@ I’m passionate about healthcare data analytics. I aim to leverage my expertise
 
 Apart from my academic and professional pursuits, I love hiking and playing cricket.
 
+---
 # What I hope to learn
 Through this course, I want to be able to:
 
