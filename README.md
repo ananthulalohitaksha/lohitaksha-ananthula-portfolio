@@ -19,11 +19,11 @@ After graduation, I aspire to become a Data Scientist. I’m excited to tackle p
 
 # Portfolio
 
-## Exercise 1: Controlling Color Workbook
+## Exercise 1: [Controlling Color Workbook](controlling-color-workbook)
 
-## Exercise 2: Crafting for Clarity Workbook
+## Exercise 2: [Crafting for Clarity Workbook](crafting-for-clarity-workbook)
 
-## Exercise 3: Data visualization critique #1
+## Exercise 3: [Data visualization critique #1](data-visualization-critique-#1)
 
 
 ## Assignment 1: [Visualizing overnment Debt](visualizing-government-debt)
