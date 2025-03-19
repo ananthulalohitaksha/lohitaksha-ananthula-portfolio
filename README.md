@@ -19,7 +19,9 @@ After graduation, I aspire to become a Data Scientist. I’m excited to tackle p
 
 # Portfolio
 
-## Exercise 1: Data Viz Redesign [View the Datawrapper Chart](https://datawrapper.dwcdn.net/pXGIe/1/)
+## Exercise 1: Data Viz Redesign  
+
+[https://datawrapper.dwcdn.net/pXGIe/1/](https://datawrapper.dwcdn.net/pXGIe/1/)
 
 ## Assignment 1: [Visualizing overnment Debt](visualizing-government-debt)
 
