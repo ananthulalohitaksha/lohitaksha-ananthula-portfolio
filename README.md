@@ -30,7 +30,6 @@ After graduation, I aspire to become a Data Scientist. I’m excited to tackle p
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
 ## Final project
-
 1. [Part I](final-project-part-one)
 2. [Part II](final-project-part-two)
 3. [Part III](final-project-part-three)
