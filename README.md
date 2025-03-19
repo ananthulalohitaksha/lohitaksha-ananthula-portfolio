@@ -1,6 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # About me
+---
 Hi! My name is Lohitaksha Ananthula, and I'm currently pursuing a Master's degree in Information Systems Management at Carnegie Mellon University, with a focus on Business Intelligence and Data Analytics. I have a solid foundation in machine learning, data analysis, and predictive modeling. I’ve worked on projects where I engineered data pipelines, developed predictive models for demand forecasting, and created interactive dashboards to visualize insights.
 
 I’m passionate about healthcare data analytics. I aim to leverage my expertise in data science and machine learning to enhance patient care, optimize operational efficiency, and support data-driven decision-making in the healthcare sector.
