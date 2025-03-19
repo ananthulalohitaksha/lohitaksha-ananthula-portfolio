@@ -21,7 +21,7 @@ After graduation, I aspire to become a Data Scientist. I’m excited to tackle p
 
 ## Exercise 1: [Data Viz Redesign](https://datawrapper.dwcdn.net/pXGIe/1/)
 
-## Assignment 1: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
