@@ -1,33 +1,6 @@
 | [home page](https://ananthulalohitaksha.github.io/lohitaksha-ananthula-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-<iframe title="Presidential Margin of Victory" 
-    aria-label="Split Bars" 
-    id="datawrapper-chart-pXGIe" 
-    src="https://datawrapper.dwcdn.net/pXGIe/1/" 
-    scrolling="no" 
-    frameborder="0" 
-    style="width: 100%; min-width: 100%; height: 600px; border: none;" 
-    data-external="1">
-</iframe>
-
-<script type="text/javascript">
-    !function() {
-        "use strict";
-        window.addEventListener("message", function(a) {
-            if (void 0 !== a.data["datawrapper-height"]) {
-                var e = document.querySelectorAll("iframe");
-                for (var t in a.data["datawrapper-height"]) {
-                    for (var r, i = 0; r = e[i]; i++) {
-                        if (r.contentWindow === a.source) {
-                            var d = a.data["datawrapper-height"][t] + "px";
-                            r.style.height = d;
-                        }
-                    }
-                }
-            }
-        });
-    }();
-</script>
+## [Data Viz Redesign](https://datawrapper.dwcdn.net/pXGIe/1/)
 
 <div class='tableauPlaceholder' id='viz1742693815105' style='position: relative'>
     <noscript>
