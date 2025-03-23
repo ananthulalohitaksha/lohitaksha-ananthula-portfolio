@@ -2,9 +2,13 @@
 
 # Data visualization examples
 <div class='tableauPlaceholder' id='viz1742693815105' style='position: relative'>
-<noscript><a href='https://public.tableau.com/views/VisualizingGovernmentDebt_17426937908540/Sheet1'>
-<img alt='Historical Overview: Government Debt-to-GDP Ratio (1995-2019) General government debt | OECD. Accessed March 22, 2025 https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2023' src='https://public.tableau.com/static/images/Vi/VisualizingGovernmentDebt_17426937908540/Sheet1/1_rss.png' 
-style='border: none' />
+    <noscript>
+        <a href='https://public.tableau.com/views/VisualizingGovernmentDebt_17426937908540/Sheet1'>
+            <img alt='Historical Overview: Government Debt-to-GDP Ratio (1995-2019) General government debt | OECD. Accessed March 22, 2025 https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2023'
+            src='https://public.tableau.com/static/images/Vi/VisualizingGovernmentDebt_17426937908540/Sheet1/1_rss.png'
+            style='border: none' />
+        </a>
+    </noscript>
     <object class='tableauViz' style='display:none;'>
         <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
         <param name='embed_code_version' value='3' />
@@ -23,11 +27,13 @@ style='border: none' />
     </object>
 </div>
 <script type='text/javascript'>
-    var divElement = document.getElementById('viz1742693815105');
-    var vizElement = divElement.getElementsByTagName('object')[0];
-    vizElement.style.width='100%';
-    vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
-    var scriptElement = document.createElement('script');
-    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+    document.addEventListener("DOMContentLoaded", function() {
+        var divElement = document.getElementById('viz1742693815105');
+        var vizElement = divElement.getElementsByTagName('object')[0];
+        vizElement.style.width = '100%';
+        vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+        var scriptElement = document.createElement('script');
+        scriptElement.src = 'https://public.tableau.com/javascripts/api/tableau-2.min.js';
+        vizElement.parentNode.insertBefore(scriptElement, vizElement);
+    });
 </script>
