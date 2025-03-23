@@ -1,14 +1,42 @@
 | [home page](https://ananthulalohitaksha.github.io/lohitaksha-ananthula-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Data visualization examples
-## Exercise 1: [Data Viz Redesign](https://datawrapper.dwcdn.net/pXGIe/1/)
+<!-- Datawrapper Embed -->
+<iframe title="Presidential Margin of Victory" 
+    aria-label="Split Bars" 
+    id="datawrapper-chart-pXGIe" 
+    src="https://datawrapper.dwcdn.net/pXGIe/1/" 
+    scrolling="no" 
+    frameborder="0" 
+    style="width: 100%; min-width: 100%; height: 600px; border: none;" 
+    data-external="1">
+</iframe>
 
+<script type="text/javascript">
+    !function() {
+        "use strict";
+        window.addEventListener("message", function(a) {
+            if (void 0 !== a.data["datawrapper-height"]) {
+                var e = document.querySelectorAll("iframe");
+                for (var t in a.data["datawrapper-height"]) {
+                    for (var r, i = 0; r = e[i]; i++) {
+                        if (r.contentWindow === a.source) {
+                            var d = a.data["datawrapper-height"][t] + "px";
+                            r.style.height = d;
+                        }
+                    }
+                }
+            }
+        });
+    }();
+</script>
+
+<!-- Tableau Embed -->
 <div class='tableauPlaceholder' id='viz1742693815105' style='position: relative'>
     <noscript>
         <a href='https://public.tableau.com/views/VisualizingGovernmentDebt_17426937908540/Sheet1'>
             <img alt='Historical Overview: Government Debt-to-GDP Ratio (1995-2019) General government debt | OECD. Accessed March 22, 2025 https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2023' 
                  src='https://public.tableau.com/static/images/Vi/VisualizingGovernmentDebt_17426937908540/Sheet1/1_rss.png' 
-                 style='border: none' />
+                 style='border: none;' />
         </a>
     </noscript>
     <object class='tableauViz' style='display:none;'>
