@@ -2,13 +2,9 @@
 
 # Data visualization examples
 <div class='tableauPlaceholder' id='viz1742693815105' style='position: relative'>
-    <noscript>
-        <a href='https://public.tableau.com/views/VisualizingGovernmentDebt_17426937908540/Sheet1'>
-            <img alt='Historical Overview: Government Debt-to-GDP Ratio (1995-2019) General government debt | OECD. Accessed March 22, 2025 https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2023' 
-                 src='https://public.tableau.com/static/images/Vi/VisualizingGovernmentDebt_17426937908540/Sheet1/1_rss.png' 
-                 style='border: none' />
-        </a>
-    </noscript>
+<noscript><a href='https://public.tableau.com/views/VisualizingGovernmentDebt_17426937908540/Sheet1'>
+<img alt='Historical Overview: Government Debt-to-GDP Ratio (1995-2019) General government debt | OECD. Accessed March 22, 2025 https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2023' src='https://public.tableau.com/static/images/Vi/VisualizingGovernmentDebt_17426937908540/Sheet1/1_rss.png' 
+style='border: none' />
     <object class='tableauViz' style='display:none;'>
         <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
         <param name='embed_code_version' value='3' />
