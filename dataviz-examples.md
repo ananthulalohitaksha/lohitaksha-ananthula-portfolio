@@ -1,6 +1,5 @@
 | [home page](https://ananthulalohitaksha.github.io/lohitaksha-ananthula-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-<!-- Datawrapper Embed -->
 <iframe title="Presidential Margin of Victory" 
     aria-label="Split Bars" 
     id="datawrapper-chart-pXGIe" 
@@ -30,7 +29,6 @@
     }();
 </script>
 
-<!-- Tableau Embed -->
 <div class='tableauPlaceholder' id='viz1742693815105' style='position: relative'>
     <noscript>
         <a href='https://public.tableau.com/views/VisualizingGovernmentDebt_17426937908540/Sheet1'>
