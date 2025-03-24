@@ -45,7 +45,9 @@ Heatmap of GDP-to-Debt Ratio Over Time.
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-## Step three: Sketch a solution
+## Part 3: Create your own visualization
+
+
 
 ## Step four: Test the solution
 
