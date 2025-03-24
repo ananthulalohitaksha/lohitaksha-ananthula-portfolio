@@ -9,7 +9,6 @@ Original visualization from the OECD website.
 
 ## Part 2: Working with Tableau
 Heatmap of GDP-to-Debt Ratio Over Time
-
 <div class='tableauPlaceholder' id='viz1742775716886' style='position: relative'>
     <noscript>
         <a href='https://public.tableau.com/views/VisualizingGovernmentDebt_17426937908540/Sheet1'>
