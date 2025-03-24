@@ -1,38 +1,50 @@
 | [Home Page](https://ananthulalohitaksha.github.io/lohitaksha-ananthula-portfolio/) | [Data Viz Examples](dataviz-examples) | [Visualizing Government Debt](visualizing-government-debt) | [Critique By Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+# Government Debt Insights by Country
 
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+## Part 1: Working with web-based visualization tools and data
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
-Text here...
+## Step two: the critique
+_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
-## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+## Step three: Sketch a solution
 
-Text here...
+## Step four: Test the solution
 
-# The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
 
-Text here...
+Questions to ask (modify these for your own interviews): 
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+- Can you tell me what you think this is?
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+- Can you describe to me what this is telling you?
 
-# Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+- Is there anything you find surprising or confusing?
 
-Text here...
+- Who do you think is the intended audience for this?
+
+- Is there anything you would change or do differently?
+
+Results: 
+
+_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+
+
+| Question | Interview 1 | Interview 2 |
+|----------|-------------|-------------|
+|          |             |             |
+|          |             |             |
+|          |             |             |
+
+Synthesis: 
+
+_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+
+## Step five: build the solution
+
+_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
 _List any references you used here._
