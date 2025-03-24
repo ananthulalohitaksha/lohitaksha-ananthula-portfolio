@@ -56,7 +56,7 @@ One key observation is that Japan had a consistently increasing debt-to-GDP rati
 
 Overall, the visualization provides a comprehensive view of government debt trends during the global financial crisis and its effects in the years that followed.
 
-<div class='tableauPlaceholder' id='viz1742776287865' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1742776287865' style='position: relative; width: 100%; margin: 0 auto; display: block;'>
     <noscript>
         <a href='#'>
             <img alt='Government Debt Comparison: The Global Financial Crisis and Its Aftermath (2009-2012) Government debt-to-GDP ratios measure the size of a country\'s debt relative to its economic output, providing insight into its fiscal health. During the aftermath of the ' 
@@ -64,7 +64,7 @@ Overall, the visualization provides a comprehensive view of government debt tren
                  style='border: none;' />
         </a>
     </noscript>
-    <object class='tableauViz' style='display:none;'>
+    <object class='tableauViz' style='display:none; width: 100%; height: 100%;'>
         <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
         <param name='embed_code_version' value='3' />
         <param name='site_root' value='' />
@@ -85,7 +85,7 @@ Overall, the visualization provides a comprehensive view of government debt tren
     var divElement = document.getElementById('viz1742776287865');
     var vizElement = divElement.getElementsByTagName('object')[0];
     vizElement.style.width = '100%';
-    vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+    vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';  // Maintain 75% height ratio
     var scriptElement = document.createElement('script');
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
