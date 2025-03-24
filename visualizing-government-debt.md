@@ -59,9 +59,9 @@ Overall, the visualization provides a comprehensive view of government debt tren
 <div class='tableauPlaceholder' id='viz1742776287865' style='position: relative'>
     <noscript>
         <a href='#'>
-            <img alt='Government Debt Comparison: The Global Financial Crisis and Its Aftermath (2009-2012). Government debt-to-GDP ratios measure the size of a country&#39;s debt relative to its economic output, providing insight into its fiscal health. During the aftermath of the financial crisis, many countries saw significant increases in debt levels.' 
-                 src='https://public.tableau.com/static/images/Bo/Book1_17427761344300/Sheet1/1_rss.png' 
-                 style='border: none;' />
+            <img alt='Government Debt Comparison: The Global Financial Crisis and Its Aftermath (2009-2012)' 
+                 src='https://public.tableau.com/static/images/Bo/Book1_17427761344300/Sheet1/1.png' 
+                 style='border: none; width: 100%; max-width: 100%; height: auto;' />
         </a>
     </noscript>
     <object class='tableauViz' style='display:none;'>
@@ -90,6 +90,7 @@ Overall, the visualization provides a comprehensive view of government debt tren
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
 
 ## Step four: Test the solution
 
