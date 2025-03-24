@@ -46,6 +46,15 @@ Heatmap of GDP-to-Debt Ratio Over Time.
 </script>
 
 ## Part 3: Create your own visualization
+After reviewing the original dataset and visualization, the first thought that came to my mind was to analyze the impact of the global financial crisis (2007-2008) and its aftermath on the debt-to-GDP ratio from 2009 to 2012. Initially, I considered focusing on the five most impacted countries, but then I realized that the dataset would be too small. Therefore, I decided to include all countries and observe the broader impact.
+
+I chose a bubble chart to visualize the data. The title of the chart is: "Government Debt Trends: The Global Financial Crisis and Its Aftermath (2009-2012)". This title captures the essence of the analysis. I also added a filter for specific years, allowing users to explore individual years or view the data for all years combined. When multiple years are studied, I used the average aggregation.
+
+For the color scheme, I chose a red-blue diverging palette, with red representing higher debt ratios, orange indicating medium debt ratios, and blue signifying lower ones. This helps distinguish high, medium, and low debt burdens. Additionally, I sorted the countries by their debt-to-GDP ratios in descending order. This sorting places the most impacted countries at the center of the chart, with countries less impacted by the crisis surrounding them.
+
+One key observation is that Japan had a consistently increasing debt-to-GDP ratio. I closely studied the trends from 2007–2012, the period surrounding the global financial crisis. Through an article, I found that Japan’s economic challenges were largely due to a huge decline in export demand, particularly in motor vehicles. This decline was caused by reduced consumer spending in key markets like the U.S.
+
+Overall, the visualization provides a comprehensive view of government debt trends during the global financial crisis and its effects in the years that followed.
 
 
 
