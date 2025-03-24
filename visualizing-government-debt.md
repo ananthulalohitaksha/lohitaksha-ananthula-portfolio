@@ -7,8 +7,9 @@ Original visualization from the OECD website.
 
 <img src="Part%20one.png" alt="Part One" width="650" />
 
-## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+## Part 2: Working with Tableau
+Heatmap of GDP-to-Debt Ratio Over Time
+
 
 ## Step three: Sketch a solution
 
