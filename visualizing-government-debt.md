@@ -5,7 +5,7 @@
 ## Part 1: Working with web-based visualization tools and data
 Original visualization from the OECD website.
 
-<img src="Part%20one.png" alt="Part One" width="650" />
+<img src="Part%20one.png" alt="Part One" width="800" />
 
 ## Part 2: Working with Tableau
 Heatmap of GDP-to-Debt Ratio Over Time.
