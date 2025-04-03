@@ -71,8 +71,30 @@ Since popular coffee chains are included, I believe this is meant for regular co
 - Is there anything you would change or do differently?
 
 Add an axis label and define the threshold with a number. The dropdown menu for drink types has large size options, which don't look great. A more effective title would make it more intuitive for the reader to understand the message.
+
+**Interviewee 2-**
+
+- Can you tell me what you think this is?
+
+A visualization comparing different coffee brands, coffee types, and caffeine content.
+
+- Can you describe to me what this is telling you?
+
+Along with the visualization and filter options, I understand that we can choose the number of cups or enter the drink size and coffee type to see the caffeine content across different chains.
+
+- Is there anything you find surprising or confusing?
+
+I found the threshold line slightly confusing since there is no value.
+
+- Who do you think is the intended audience for this?
+
+Since it includes well-known coffee chains, it seems targeted at health-conscious individuals who want to monitor their caffeine intake when buying from these chains.
+
+- Is there anything you would change or do differently?
+
+Define the threshold with a numerical value. Use a different color scheme to highlight when caffeine intake exceeds the recommended limit. While experimenting with different drink sizes, I noticed that the caffeine content value sometimes extends beyond the bar, making it hard to read. To improve clarity, placing the caffeine content outside the bars could help.
  
-**_Synthesis:_ **
+**Synthesis:**
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
