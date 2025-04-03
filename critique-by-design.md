@@ -14,7 +14,7 @@ Source: [Which?](https://www.which.co.uk/news/article/caffeine-levels-in-high-st
 
 As I assessed the "High Street Coffee Caffeine Content" visualization, I realized it effectively conveyed important information but still had areas for improvement. Here is my critique-
 
-**Observations:**
+**_Observations_:**
 
 Looking at the high street coffee caffeine content visualization, one thing that immediately stood out to me was the huge difference in caffeine levels between Costa's cappuccino (325 mg) and Starbucks' version (66 mg). On the other hand, I really liked how the table is presented in a neat and organized manner, with coffee chain names as rows and coffee types as columns, making comparisons easier. The use of a blue background with white text ensures good readability and creates an effective contrast.
 However, I noticed a few issues. The filter/brewed coffee columns for Café Nero and Costa (Signature Blend) are missing, creating an impression of incompleteness. I also believe the visualization could have been improved by including the recommended daily caffeine intake for adults, as this would help compare the caffeine content of each drink to the suggested limit. Lastly, the visualization currently displays caffeine content in mg alongside drink size in ml, but this isn't very intuitive. Readers might find it clearer if it showed how much caffeine each drink contains.
@@ -52,11 +52,14 @@ I conducted the interviews based on the following questions:
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|    Who are you?     |  Hero           |         Hero 2    |
-|          |             |             |
-|          |             |             |
+|       Can you tell me what you think this is?
+   |    Can you describe to me what this is telling you?
+         |   Is there anything you find surprising or confusing?
+          | Who do you think is the intended audience for this?
 
-Synthesis: 
+|    Is there anything you would change or do differently?      |             |             |
+
+**_Synthesis:_ **
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
