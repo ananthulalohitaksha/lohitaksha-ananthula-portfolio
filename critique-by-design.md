@@ -32,6 +32,11 @@ In my redesign, I plan to move from a table format to a horizontal bar chart, wh
 
 As I worked through my critique of the "High Street Coffee Caffeine Content" visualization, I initially thought it would be fairly easy to improve. However, as I started redesigning it, I realized that the changes I wanted to make, especially with the custom calculations and dropdown menus, felt more challenging than expected. Despite these challenges, I created a sketch for my redesign. My goal was to move away from the table format and use a more intuitive bar chart.
 
+However, I didn’t post my redesign on Tableau Public yet, as I wasn’t fully confident in the final version. I wanted to take the time to gather feedback by conducting interviews and adding my own thoughts further to work on the final redesign. Here is my sketch:
+
+<img src="Redesign%20_Draft.png" alt="Part One" width="800" />
+
+
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
