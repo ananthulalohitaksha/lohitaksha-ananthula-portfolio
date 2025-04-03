@@ -48,7 +48,7 @@ I conducted the interviews based on the following questions:
 - Who do you think is the intended audience for this?
 - Is there anything you would change or do differently?
 
-_**Results:** _
+**_Results:_**
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
