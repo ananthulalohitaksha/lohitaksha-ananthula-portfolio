@@ -103,7 +103,7 @@ Based on the feedback, I plan to implement some design changes to improve the vi
 
 <img src="Final%20Design.png" alt="Final Design" width="900" />
 
-<div class='tableauPlaceholder' id='viz1743653721467' style='position: relative; width: 100%; margin: 0 auto; display: block;'>
+<div class='tableauPlaceholder' id='viz1743653721467' style='position: relative; width: 80%; margin: 0 auto; display: block;'>
     <noscript>
         <a href='#'>
             <img alt='Tracking Caffeine Intake: Does Your Single-Shot Espresso or Cappuccino Exceed the Daily Limit? According to the U.S. Food and Drug Administration (FDA), up to 400 milligrams of caffeine per day is considered safe for healthy adults.'
@@ -111,7 +111,7 @@ Based on the feedback, I plan to implement some design changes to improve the vi
                  style='border: none;' />
         </a>
     </noscript>
-    <object class='tableauViz' style='display:none; width: 100%; height: 100%;'>
+    <object class='tableauViz' style='display:block; width: 100%; height: 600px;'>  <!-- Height set to 600px for better proportions -->
         <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
         <param name='embed_code_version' value='3' />
         <param name='site_root' value='' />
@@ -132,7 +132,7 @@ Based on the feedback, I plan to implement some design changes to improve the vi
     var divElement = document.getElementById('viz1743653721467');
     var vizElement = divElement.getElementsByTagName('object')[0];
     vizElement.style.width = '100%';
-    vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';  // Maintain 75% height ratio
+    vizElement.style.height = '600px';  // Adjusted height for more defined shape
     var scriptElement = document.createElement('script');
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
