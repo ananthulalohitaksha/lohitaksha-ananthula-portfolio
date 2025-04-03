@@ -53,18 +53,23 @@ I conducted the interviews based on the following questions:
 **Interviewee 1-**
 
 - Can you tell me what you think this is?
+
 A bar chart showing how much caffeine each type of coffee contains across different chains.
 
 - Can you describe to me what this is telling you?
+
 A visualization that helps determine whether we are hitting, exceeding, or staying within the recommended caffeine intake by comparing the same type of coffee across different chains.
 
 - Is there anything you find surprising or confusing?
+
 The write-up below the title mentions what is considered a safe caffeine intake per day for adults. However, the threshold is just a line, which makes it slightly confusing. X-axis labels are also missing.
 
 - Who do you think is the intended audience for this?
+
 Since popular coffee chains are included, I believe this is meant for regular coffee drinkers who want to keep track of their caffeine intake.
 
 - Is there anything you would change or do differently?
+
 Add an axis label and define the threshold with a number. The dropdown menu for drink types has large size options, which don't look great. A more effective title would make it more intuitive for the reader to understand the message.
  
 **_Synthesis:_ **
