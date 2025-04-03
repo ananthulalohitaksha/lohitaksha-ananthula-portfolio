@@ -12,7 +12,8 @@ Source: [Which?](https://www.which.co.uk/news/article/caffeine-levels-in-high-st
 
 ## Step two: the critique
 
-As I assessed the "High Street Coffee Caffeine Content" visualization, I realized it effectively conveyed important information but still had areas for improvement. Here is my critique:
+As I assessed the "High Street Coffee Caffeine Content" visualization, I realized it effectively conveyed important information but still had areas for improvement. Here is my critique-
+
 _Observations_:
 
 Looking at the high street coffee caffeine content visualization, one thing that immediately stood out to me was the huge difference in caffeine levels between Costa's cappuccino (325 mg) and Starbucks' version (66 mg). On the other hand, I really liked how the table is presented in a neat and organized manner, with coffee chain names as rows and coffee types as columns, making comparisons easier. The use of a blue background with white text ensures good readability and creates an effective contrast.
