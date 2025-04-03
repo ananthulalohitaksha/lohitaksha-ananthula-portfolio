@@ -103,7 +103,7 @@ Based on the feedback, I plan to implement some design changes to improve the vi
 
 <img src="Final%20Design.png" alt="Final Design" width="900" />
 
-Tableau Link: [](https://public.tableau.com/views/CritiqueandRedesign_Lohitaksha/BarChart_FinalVersion?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Tableau Link:](https://public.tableau.com/views/CritiqueandRedesign_Lohitaksha/BarChart_FinalVersion?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 The final step of this project involved combining my critique, interview feedback, and personal insights to refine my data visualization. Each stage from initial critique to redesign sketches and user interviews played a role in shaping my final visualization. One of my primary objectives was to allow users to interact with the data by selecting their drink size, coffee type, and number of cups to determine their actual daily caffeine intake. More importantly, I wanted to help them understand whether their intake exceeded the recommended threshold. The original table format only provided caffeine content per drink size, but this information was inconsistent across different coffee chains. Additionally, there were missing data points for brewed/filter coffee from Café Nero and Costa. To ensure clarity, I decided to exclude the brewed/filter coffee category rather than present incomplete information. This allowed me to focus on a clearer comparison between two specific coffee types across five major brands.
 
