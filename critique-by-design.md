@@ -103,6 +103,40 @@ Based on the feedback, I plan to implement some design changes to improve the vi
 
 <img src="Final%20Design.png" alt="Final Design" width="900" />
 
+<div class='tableauPlaceholder' id='viz1743653721467' style='position: relative'>
+  <noscript>
+    <a href='#'>
+      <img alt='Tracking Caffeine Intake: Does Your Single-Shot Espresso or Cappuccino Exceed the Daily Limit? According to the U.S. Food and Drug Administration (FDA), up to 400 milligrams of caffeine per day is considered safe for healthy adults. Source: Which? Access'
+        src='https://public.tableau.com/static/images/Cr/CritiqueandRedesign_Lohitaksha/BarChart_FinalVersion/1_rss.png' style='border: none' />
+    </a>
+  </noscript>
+  <object class='tableauViz' style='display:none;'>
+    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+    <param name='embed_code_version' value='3' />
+    <param name='site_root' value='' />
+    <param name='name' value='CritiqueandRedesign_Lohitaksha/BarChart_FinalVersion' />
+    <param name='tabs' value='no' />
+    <param name='toolbar' value='yes' />
+    <param name='static_image' value='https://public.tableau.com/static/images/Cr/CritiqueandRedesign_Lohitaksha/BarChart_FinalVersion/1.png' />
+    <param name='animate_transition' value='yes' />
+    <param name='display_static_image' value='yes' />
+    <param name='display_spinner' value='yes' />
+    <param name='display_overlay' value='yes' />
+    <param name='display_count' value='yes' />
+    <param name='language' value='en-US' />
+    <param name='filter' value='publish=yes' />
+  </object>
+</div>
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1743653721467');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
 The final step of this project involved combining my critique, interview feedback, and personal insights to refine my data visualization. Each stage from initial critique to redesign sketches and user interviews played a role in shaping my final visualization. One of my primary objectives was to allow users to interact with the data by selecting their drink size, coffee type, and number of cups to determine their actual daily caffeine intake. More importantly, I wanted to help them understand whether their intake exceeded the recommended threshold. The original table format only provided caffeine content per drink size, but this information was inconsistent across different coffee chains. Additionally, there were missing data points for brewed/filter coffee from Café Nero and Costa. To ensure clarity, I decided to exclude the brewed/filter coffee category rather than present incomplete information. This allowed me to focus on a clearer comparison between two specific coffee types across five major brands.
 
 For my sketch, to enhance the visual appeal and usability of my redesign, I used a custom coffee-inspired color palette that matched the theme. One of my biggest initial challenges was incorporating calculations for drink size, coffee type, and number of cups. To address this, I referred to a video by Andy Kriebel on redesigning the same visualization, which provided insights into similar calculations. I was able to compute Caffeine Intake (mg/day) using the formula: [Caffeine (mg/ml)] × [Drink Size] × [Number of Cups]. Once I had this measure, I worked on integrating a threshold filter that would indicate whether the user’s caffeine intake exceeded the recommended daily limit. I achieved this by implementing a threshold reference line—when users hover over a bar, a tooltip displays whether they have surpassed the limit.
