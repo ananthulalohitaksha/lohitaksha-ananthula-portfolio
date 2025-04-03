@@ -38,18 +38,14 @@ However, I didn’t post my redesign on Tableau Public yet, as I wasn’t fully 
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+I interviewed two students in their early 20s—one from the Master of Information Systems Management program and another, an undergraduate Computer Science student.
 
-Questions to ask (modify these for your own interviews): 
+I conducted the interviews based on the following questions:
 
 - Can you tell me what you think this is?
-
 - Can you describe to me what this is telling you?
-
 - Is there anything you find surprising or confusing?
-
 - Who do you think is the intended audience for this?
-
 - Is there anything you would change or do differently?
 
 Results: 
