@@ -4,7 +4,12 @@
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+While exploring various articles on the Makeover Monday website, I came across the "High Street Coffee Caffeine Content Compared" visualization, which illustrated caffeine levels across popular coffee chains. I selected this particular data visualization as I was looking for a graphic that conveyed an important message but lacked effective visualization. The visualization stood out because it provided valuable insights for coffee drinkers, helping them understand how much caffeine they consume from different coffee chains.
+
+<img src="Original%20Visualization.png" alt="Part One" width="800" />
+
+Source- 
+
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
