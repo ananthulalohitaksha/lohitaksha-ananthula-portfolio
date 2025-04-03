@@ -34,8 +34,7 @@ As I worked through my critique of the "High Street Coffee Caffeine Content" vis
 
 However, I didn’t post my redesign on Tableau Public yet, as I wasn’t fully confident in the final version. I wanted to take the time to gather feedback by conducting interviews and adding my own thoughts further to work on the final redesign. Here is my sketch:
 
-<img src="Redesign%20_Draft.png" alt="Redesign_Draft" width="800" />
-
+<img src="Redesign%20Draft.png" alt="Redesign Draft" width="800" />
 
 ## Step four: Test the solution
 
