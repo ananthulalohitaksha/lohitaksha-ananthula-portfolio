@@ -6,7 +6,7 @@
 
 While exploring various articles on the Makeover Monday website, I came across the "High Street Coffee Caffeine Content Compared" visualization, which illustrated caffeine levels across popular coffee chains. I selected this particular data visualization as I was looking for a graphic that conveyed an important message but lacked effective visualization. The visualization stood out because it provided valuable insights for coffee drinkers, helping them understand how much caffeine they consume from different coffee chains.
 
-<img src="Original%20Visualization.png" alt="Part One" width="800" />
+<img src="Original%20Visualization.png" alt="Original Visualization" width="800" />
 
 Source: [Which?](https://www.which.co.uk/news/article/caffeine-levels-in-high-street-coffees-vary-significantly-which-finds-ay7cA4G1zh1S)  
 
@@ -34,7 +34,7 @@ As I worked through my critique of the "High Street Coffee Caffeine Content" vis
 
 However, I didn’t post my redesign on Tableau Public yet, as I wasn’t fully confident in the final version. I wanted to take the time to gather feedback by conducting interviews and adding my own thoughts further to work on the final redesign. Here is my sketch:
 
-<img src="Redesign%20_Draft.png" alt="Part One" width="800" />
+<img src="Redesign%20_Draft.png" alt="Redesign_Draft" width="800" />
 
 
 ## Step four: Test the solution
