@@ -14,17 +14,17 @@ Source: [Which?](https://www.which.co.uk/news/article/caffeine-levels-in-high-st
 
 As I assessed the "High Street Coffee Caffeine Content" visualization, I realized it effectively conveyed important information but still had areas for improvement. Here is my critique-
 
-_Observations_:
+**_Observations_:**
 
 Looking at the high street coffee caffeine content visualization, one thing that immediately stood out to me was the huge difference in caffeine levels between Costa's cappuccino (325 mg) and Starbucks' version (66 mg). On the other hand, I really liked how the table is presented in a neat and organized manner, with coffee chain names as rows and coffee types as columns, making comparisons easier. The use of a blue background with white text ensures good readability and creates an effective contrast.
 However, I noticed a few issues. The filter/brewed coffee columns for Café Nero and Costa (Signature Blend) are missing, creating an impression of incompleteness. I also believe the visualization could have been improved by including the recommended daily caffeine intake for adults, as this would help compare the caffeine content of each drink to the suggested limit. Lastly, the visualization currently displays caffeine content in mg alongside drink size in ml, but this isn't very intuitive. Readers might find it clearer if it showed how much caffeine each drink contains.
 
-_Primary Audience_:
+**_Primary Audience_:**
 
 The primary audience appears to be consumers who regularly purchase coffee from high street chains and want to be informed about caffeine content in their drinks.
 This visualization is moderately effective for the audience because it provides clear, factual information in an organized format. The table layout makes it easy to compare caffeine levels across different chains and drink types. However, it could better serve the audience by making the information more intuitive and visually engaging. The current approach requires calculations to understand relative differences and lacks information on which options might exceed recommended caffeine content per day. I also believe that most coffee consumers would find it easier to understand caffeine content in terms of each drink's caffeine amount, rather than comparing caffeine content in mg and drink size in ml.
 
-_Recommendations for improving the current visualization:_
+**_Recommendations for improving the current visualization:_**
 
 In my redesign, I plan to move from a table format to a horizontal bar chart, which can make the information more visually engaging and easier to compare at a glance. I might explore using coffee chain logos to make the visualization more appealing. I also plan to reorganize the data by grouping the coffee drinks based on the highest caffeine content, rather than sorting them alphabetically by chain. To provide better context, I would include a reference line indicating the FDA/health authority’s recommended caffeine limit of 400 mg per day. Furthermore, I plan on incorporating a dropdown filter that allows users to select the type of coffee, the desired number of cups, and even customize the drink size. This would involve some mathematical calculations to ensure accuracy. I believe these changes could enhance both the clarity and the overall impact of the visualization.
 
