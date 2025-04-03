@@ -48,14 +48,11 @@ I conducted the interviews based on the following questions:
 - Who do you think is the intended audience for this?
 - Is there anything you would change or do differently?
 
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
+_**Results:** _
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|         |             |             |
+|    Who are you?     |  Hero           |         Hero 2    |
 |          |             |             |
 |          |             |             |
 
