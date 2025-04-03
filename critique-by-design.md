@@ -96,7 +96,8 @@ Define the threshold with a numerical value. Use a different color scheme to hig
  
 **Synthesis:**
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+Both the interviewees found the threshold line slightly confusing due to the lack of x-axis labels and numerical values. One of them also pointed out that the dropdown menu design could be improved for a more polished look. One interviewee suggested using color differentiation to indicate when caffeine intake exceeds the limit, which could make the visualization more intuitive. I felt that all these inputs were valuable and something I could incorporate to enhance the visual appeal.
+Based on the feedback, I plan to implement some design changes to improve the visualization. Adding x-axis labels and a numerical value to the threshold line will provide better context. Using color differentiation to highlight excessive caffeine intake will make the visualization more intuitive. These improvements will enhance clarity and the overall effectiveness of the visualization for consumers tracking their caffeine intake.
 
 ## Step five: build the solution
 
