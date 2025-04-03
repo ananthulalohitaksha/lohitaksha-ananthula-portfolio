@@ -54,11 +54,21 @@ I conducted the interviews based on the following questions:
 |----------|-------------|-------------|
 |       Can you tell me what you think this is?
    |    Can you describe to me what this is telling you?
-         |   Is there anything you find surprising or confusing?
-          | Who do you think is the intended audience for this?
+       Is there anything you find surprising or confusing?
+  |
+     Who do you think is the intended audience for this?
+     | 
 
-|    Is there anything you would change or do differently?      |             |             |
+|    Is there anything you would change or do differently?
+      |             |             |
 
+Can you tell me what you think this is?
+Can you describe to me what this is telling you?
+Is there anything you find surprising or confusing?
+Who do you think is the intended audience for this?
+ Is there anything you would change or do differently?
+
+ 
 **_Synthesis:_ **
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
