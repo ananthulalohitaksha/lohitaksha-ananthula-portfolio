@@ -76,7 +76,7 @@ Sources-
 
 # Method and medium
 
-For my final project, I plan to use Shorthand to create a visually engaging, interactive website that presents my research in a storytelling format. I will integrate Tableau for data visualizations, allowing users to explore nutritional, environmental, and financial comparisons more intuitively. Together, these tools will support an informative, user-friendly experience that encourages sustainable, plant-based protein choices.
+For my final project, I plan to use Shorthand to create a visually engaging, interactive website that presents my research in a storytelling format. I will integrate Tableau for data visualizations, allowing users to explore nutritional, environmental, and financial comparisons more intuitively. Together, these tools will aid in building an informative, user-friendly experience that encourages sustainable, plant-based protein choices.
 
 ## AI acknowledgements
 For sketches 1 - 4, I used ChatGPT to help write the Python code for generating the visualization.
