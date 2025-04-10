@@ -75,12 +75,8 @@ Sources-
 |   Meatless Monday |  The Monday Campaigns. (n.d.). Meatless Monday. https://www.mondaycampaigns.org/meatless-monday|  I will provide this link at the end of my story for my audience to explore. This link introduces the concept of Meatless Monday and offers helpful resources, including recipes and toolkits. It also provides an option to subscribe to a monthly newsletter and join the movement.  |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
-
-## References
-_List any references you used here._
+For my final project, I plan to use Shorthand to create a visually engaging, interactive website that presents my research in a storytelling format. I will integrate Tableau for data visualizations, allowing users to explore nutritional, environmental, and financial comparisons more intuitively. Together, these tools will support an informative, user-friendly experience that encourages sustainable, plant-based protein choices.
 
 ## AI acknowledgements
 For sketches 1 - 4, I used ChatGPT to help write the Python code for generating the visualization.
