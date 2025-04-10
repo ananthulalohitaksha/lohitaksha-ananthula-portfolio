@@ -59,6 +59,12 @@ Source: Used ChatGPT to help write the Python code for generating the visualizat
 
 <img src="Sketch%205.png" alt="Original Visualization" width="900" />
 
+This is a rough infographic in a table format I made on Google Docs. This showcases three high-protein vegetarian meals from around the world. I plan to expand this by incorporating more cuisines from different regions globally. The dish names will be hyperlinked and appear in blue, allowing easy access to the recipe sources. The estimated cost is based on a rough calculation of ingredient prices in U.S. supermarkets.
+
+Sources- 
+Pallotta, N. (2025). 40 High Protein Vegetarian Meals. The Plant Based School. https://theplantbasedschool.com/high-protein-vegetarian-meals/
+Momaya, A. (2024, November 22). Protein rich food – vegetarian diet plan, Indian recipes. HealthifyMe. https://www.healthifyme.com/blog/7-high-protein-indian-vegetarian-foods/
+
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
