@@ -26,6 +26,8 @@ The story begins with a common concern: whether vegetarian diets can truly provi
 
 This is a rough sketch I created using Python's matplotlib to visually compare protein content in various food sources using a horizontal bar chart. I plan to add more food sources and incorporate interactive filters, allowing the audience to select and compare protein content based on preferences such as protein type (plant vs. animal), protein content range, food categories (e.g., legumes, meat, dairy), the option to compare multiple foods, and adjust for different serving sizes.
 
+Source: Data points were collected through Google Search.
+
 **_Sketch 2- Essential Amino Acid Profile Comparison: Animal vs. Plant-Based Proteins_:**
 
 <img src="Sketch%202.png" alt="Original Visualization" width="900" />
@@ -64,9 +66,9 @@ Sources-
 
 | Name | URL | Description |
 |------|-----|-------------|
-|   USDA FoodData Central Database |  U.S. Department of Agriculture, Agricultural Research Service. (n.d.). Downloadable data. FoodData Central. https://fdc.nal.usda.gov/download-datasets​ | The USDA FoodData Central provides nutritional data on various foods, including protein content and quality. Will be helpful in building a comparative chart of protein content in plant-based versus animal-based foods.
-             |
-|      |     |             |
+|   USDA FoodData Central Database |  U.S. Department of Agriculture, Agricultural Research Service. (n.d.). Downloadable data. FoodData Central. https://fdc.nal.usda.gov/download-datasets​ | The USDA FoodData Central provides nutritional data on various foods, including protein content and quality. Will be helpful in building a comparative chart of protein content in plant-based versus animal-based foods.   |
+|  Plant Proteins: Assessing Their Nutritional Quality and Effects on Health and Physical Function    |    Hertzler, S. R., Lieblein-Boff, J. C., Weiler, M., & Allgeier, C. (2020). Plant proteins: Assessing their nutritional quality and effects on health and physical function. Nutrients, 12(12), 3704. https://doi.org/10.3390/nu12123704 |        This article details the amino acid content of various plant proteins, which will help assess the nutritional quality of plant-based protein foods. 
+     |
 |      |     |             |
 
 # Method and medium
