@@ -19,9 +19,19 @@ Lastly, the project also focuses on people who are considering reducing their me
 The story begins with a common concern: whether vegetarian diets can truly provide adequate protein. Using evidence and data, I aim to challenge this misconception and demonstrate that a well-planned plant-based diet can meet all nutritional needs. The narrative then explores a detailed nutritional breakdown, comparing plant- and animal-based proteins, with a special focus on essential amino acids and how vegetarians can achieve a complete profile through effective food pairings. Beyond nutrition, the story highlights the health benefits of plant based protein, followed by a look at the environmental advantages, including lower greenhouse gas emissions and more sustainable resource use. Lastly, globally inspired recipes for protein-rich vegetarian meals will be presented to make implementation easy and enjoyable. 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+**_Sketch 1- A Comparative Analysis of Meat vs. Plant-Based Protein Intake_:**
+
+**_Sketch 2- Essential Amino Acid Profile Comparison: Animal vs. Plant-Based Proteins_:**
+
+**_Sketch 3- Health Benefits of Vegetarian Protein Food Options_:**
+
+**_Sketch 4- Green House Gas Emissions by Food Type: Visualizing Environmental Impact_:**
+
+**_Sketch 5- Protein-Rich Vegetarian Meal Plan_:**
+
+
+
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
