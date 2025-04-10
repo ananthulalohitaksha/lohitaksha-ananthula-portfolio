@@ -26,8 +26,6 @@ The story begins with a common concern: whether vegetarian diets can truly provi
 
 This is a rough sketch I created using Python's matplotlib to visually compare protein content in various food sources using a horizontal bar chart. I plan to add more food sources and incorporate interactive filters, allowing the audience to select and compare protein content based on preferences such as protein type (plant vs. animal), protein content range, food categories (e.g., legumes, meat, dairy), the option to compare multiple foods, and adjust for different serving sizes.
 
-Source: Used ChatGPT to help write the Python code for generating the visualization. Data points were collected through Google Search.
-
 **_Sketch 2- Essential Amino Acid Profile Comparison: Animal vs. Plant-Based Proteins_:**
 
 <img src="Sketch%202.png" alt="Original Visualization" width="900" />
@@ -36,7 +34,7 @@ This is a rough sketch I created using Python's Matplotlib. The stacked area cha
 
 I plan to include a table in my final project showing strategic food pairings that address these gaps. I also plan to expand the chart to include a wider range of foods, helping users to make more informed dietary decisions.
 
-Source: Used ChatGPT to help write the Python code for generating the visualization. The y-axis values in this chart were generated using a ChatGPT prompt and are for illustrative purposes only. For the final version, I will use data from the USDA FoodData Central Database.
+Note: The y-axis values in this chart were generated using a ChatGPT prompt and are for illustrative purposes only. For the final version, I will use data from the USDA FoodData Central Database.
 
 **_Sketch 3- Health Benefits of Vegetarian Protein Food Options_:**
 
@@ -44,16 +42,13 @@ Source: Used ChatGPT to help write the Python code for generating the visualizat
 
 This is a rough sketch I created using Python's Matplotlib. This  is a horizontal bar chart showcasing some key findings from the study "Health Benefits of Vegetarian Diets: An Insight into the Main Topics" by Luciana Baroni, Gianluca Rizzo, Alexey Vladimirovich Galchenko, Martina Zavoli, Luca Serventi, and Maurizio Battino. For my final visualization, I plan to make it more interactive and user-friendly, allowing viewers to explore the data in greater detail. The goal is to help the audience better understand how these statistics were gathered and the benefits of a vegetarian diet.
 
-Source: Used ChatGPT to help write the Python code for generating the visualization.
-
 **_Sketch 4- Green House Gas Emissions by Food Type: Visualizing Environmental Impact_:**
 
 <img src="Sketch%204.png" alt="Original Visualization" width="900" />
 
 This is a rough sketch I created using Python's Matplotlib. Goal is to visualize GHG emissions per kilogram for different foods, with bubble size representing emission levels. While the chart gives a general idea, larger bubbles indicating higher emissions, it’s not easy to read exact values. For the final version, I plan to use the bubble chart visualization on Tableau for better clarity and interactivity. Viewers will be able to hover over each bubble to see detailed data. Lastly, I also plan to incorporate land use and water use for different foods for a more complete environmental comparison.
 
-Source: Used ChatGPT to help write the Python code for generating the visualization. 
-        Data points were collected from- Ritchie, H., Rosado, P., & Roser, M. (2022). Environmental impacts of food production. Our World in Data. https://ourworldindata.org/environmental-impacts-of-food
+Source: Ritchie, H., Rosado, P., & Roser, M. (2022). Environmental impacts of food production. Our World in Data. https://ourworldindata.org/environmental-impacts-of-food
 
 **_Sketch 5- Protein-Rich Vegetarian Meal Plan_:**
 
@@ -87,4 +82,4 @@ Text here...
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+For sketches 1 - 4, I used ChatGPT to help write the Python code for generating the visualization.
