@@ -22,16 +22,23 @@ The story begins with a common concern: whether vegetarian diets can truly provi
 
 **_Sketch 1- A Comparative Analysis of Meat vs. Plant-Based Protein Intake_:**
 
+<img src="Sketch%201.png" alt="Original Visualization" width="900" />
+
 **_Sketch 2- Essential Amino Acid Profile Comparison: Animal vs. Plant-Based Proteins_:**
+
+<img src="Sketch%202.png" alt="Original Visualization" width="900" />
 
 **_Sketch 3- Health Benefits of Vegetarian Protein Food Options_:**
 
+<img src="Sketch%203.png" alt="Original Visualization" width="900" />
+
 **_Sketch 4- Green House Gas Emissions by Food Type: Visualizing Environmental Impact_:**
+
+<img src="Sketch%204.png" alt="Original Visualization" width="900" />
 
 **_Sketch 5- Protein-Rich Vegetarian Meal Plan_:**
 
-
-
+<img src="Sketch%205.png" alt="Original Visualization" width="900" />
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
