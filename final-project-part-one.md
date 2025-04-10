@@ -67,9 +67,9 @@ Sources-
 | Name | URL | Description |
 |------|-----|-------------|
 |   USDA FoodData Central Database |  U.S. Department of Agriculture, Agricultural Research Service. (n.d.). Downloadable data. FoodData Central. https://fdc.nal.usda.gov/download-datasets​ | The USDA FoodData Central provides nutritional data on various foods, including protein content and quality. Will be helpful in building a comparative chart of protein content in plant-based versus animal-based foods.   |
-|  Plant Proteins: Assessing Their Nutritional Quality and Effects on Health and Physical Function    |    Hertzler, S. R., Lieblein-Boff, J. C., Weiler, M., & Allgeier, C. (2020). Plant proteins: Assessing their nutritional quality and effects on health and physical function. Nutrients, 12(12), 3704. https://doi.org/10.3390/nu12123704 |        This article details the amino acid content of various plant proteins, which will help assess the nutritional quality of plant-based protein foods. 
-     |
-|      |     |             |
+|  Plant Proteins: Assessing Their Nutritional Quality and Effects on Health and Physical Function    |    Hertzler, S. R., Lieblein-Boff, J. C., Weiler, M., & Allgeier, C. (2020). Plant proteins: Assessing their nutritional quality and effects on health and physical function. Nutrients, 12(12), 3704. https://doi.org/10.3390/nu12123704 |        This article details the amino acid content of various plant proteins, which will help assess the nutritional quality of plant-based protein foods.  |
+|   Health Benefits of Vegetarian Diets: An Insight into the Main Topics   |    Baroni, L., Rizzo, G., Galchenko, A. V., Zavoli, M., Serventi, L., & Battino, M. (2024). Health benefits of vegetarian diets: An insight into the main topics. Foods, 13(15), 2398. https://doi.org/10.3390/foods13152398​MDPI+4 |   This research paper outlines the health benefits of vegetarian diets, including reduced risk of chronic diseases and overall health improvements. This will support the health aspect of my project, providing scientific evidence for the benefits of plant-based protein.
+          |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
