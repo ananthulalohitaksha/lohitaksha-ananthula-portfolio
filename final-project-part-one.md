@@ -69,7 +69,10 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
+|   USDA FoodData Central Database
+U.S. Department of Agriculture, Agricultural Research Service. (n.d.). Downloadable data. FoodData Central. https://fdc.nal.usda.gov/download-datasets​
+ The USDA FoodData Central provides nutritional data on various foods, including protein content and quality. Will be helpful in building a comparative chart of protein content in plant-based versus animal-based foods.
+   |     |             |
 |      |     |             |
 |      |     |             |
 
