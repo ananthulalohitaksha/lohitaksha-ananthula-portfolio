@@ -14,9 +14,9 @@ Lastly, the project also focuses on people who are considering reducing their me
 
 **_Story Board_:**
 
+<img src="Story%20Arc.png" alt="Original Visualization" width="900" />
 
-
-Text here...
+The story begins with a common concern: whether vegetarian diets can truly provide adequate protein. Using evidence and data, I aim to challenge this misconception and demonstrate that a well-planned plant-based diet can meet all nutritional needs. The narrative then explores a detailed nutritional breakdown, comparing plant- and animal-based proteins, with a special focus on essential amino acids and how vegetarians can achieve a complete profile through effective food pairings. Beyond nutrition, the story highlights the health benefits of plant based protein, followed by a look at the environmental advantages, including lower greenhouse gas emissions and more sustainable resource use. Lastly, globally inspired recipes for protein-rich vegetarian meals will be presented to make implementation easy and enjoyable. 
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
