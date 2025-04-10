@@ -12,6 +12,8 @@ To make this shift easier for people, the project includes practical tips for ad
 
 Lastly, the project also focuses on people who are considering reducing their meat consumption, even if they’re not going fully vegetarian. Campaigns like “Meatless Mondays” are a great starting point, and this project will support such efforts by providing useful information and encouragement for these people.
 
+**_Story Board_:**
+
 
 
 Text here...
