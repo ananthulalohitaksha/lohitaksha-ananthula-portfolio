@@ -3,11 +3,16 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+This project explores the nutritional, environmental, and financial benefits of vegetarian-based protein sources. A common myth is that vegetarian diets don’t provide enough protein, but this project aims to clear up that misunderstanding. By examining a variety of plant-based proteins such as lentils, beans, tofu, and paneer, and comparing them to popular animal-based proteins like chicken and beef, the project offers a clear picture of how much protein vegetarian foods can really provide.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+The main goal is to show that a well-balanced vegetarian diet can meet daily protein needs. In fact, plant-based proteins offer several health benefits. They can support better overall health, help with weight management, and reduce the risk of chronic diseases such as heart problems, diabetes, and certain types of cancer.
+Beyond nutrition, the project also looks at the environmental and cost benefits of choosing vegetarian proteins. It compares the carbon footprint, water usage, and land needed to produce plant products versus meat products. 
+
+To make this shift easier for people, the project includes practical tips for adding more protein-rich vegetarian foods into daily meals. This includes simple meal planning advice and easy ways to incorporate plant-based options into everyday eating. 
+
+Lastly, the project also focuses on people who are considering reducing their meat consumption, even if they’re not going fully vegetarian. Campaigns like “Meatless Mondays” are a great starting point, and this project will support such efforts by providing useful information and encouragement for these people.
+
+
 
 Text here...
 
