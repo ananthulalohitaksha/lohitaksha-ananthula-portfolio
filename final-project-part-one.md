@@ -52,7 +52,7 @@ Source: Used ChatGPT to help write the Python code for generating the visualizat
 
 This is a rough sketch I created using Python's Matplotlib. Goal is to visualize GHG emissions per kilogram for different foods, with bubble size representing emission levels. While the chart gives a general idea, larger bubbles indicating higher emissions, it’s not easy to read exact values. For the final version, I plan to use the bubble chart visualization on Tableau for better clarity and interactivity. Viewers will be able to hover over each bubble to see detailed data. Lastly, I also plan to incorporate land use and water use for different foods for a more complete environmental comparison.
 
-Source: Used ChatGPT to help write the Python code for generating the visualization. Data points were collected from-  
+Source: Used ChatGPT to help write the Python code for generating the visualization. Data points were collected from- Ritchie, H., Rosado, P., & Roser, M. (2022). Environmental impacts of food production. Our World in Data.  [Webpage]. https://ourworldindata.org/environmental-impacts-of-food
  
 
 **_Sketch 5- Protein-Rich Vegetarian Meal Plan_:**
