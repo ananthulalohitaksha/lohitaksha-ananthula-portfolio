@@ -60,19 +60,12 @@ Sources-
 1. Pallotta, N. (2025). 40 High Protein Vegetarian Meals. The Plant Based School. https://theplantbasedschool.com/high-protein-vegetarian-meals/
 2. Momaya, A. (2024, November 22). Protein rich food – vegetarian diet plan, Indian recipes. HealthifyMe. https://www.healthifyme.com/blog/7-high-protein-indian-vegetarian-foods/
 
-# The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+# The data 
 
 | Name | URL | Description |
 |------|-----|-------------|
-|   USDA FoodData Central Database
-U.S. Department of Agriculture, Agricultural Research Service. (n.d.). Downloadable data. FoodData Central. https://fdc.nal.usda.gov/download-datasets​
- The USDA FoodData Central provides nutritional data on various foods, including protein content and quality. Will be helpful in building a comparative chart of protein content in plant-based versus animal-based foods.
-   |     |             |
+|   USDA FoodData Central Database |  U.S. Department of Agriculture, Agricultural Research Service. (n.d.). Downloadable data. FoodData Central. https://fdc.nal.usda.gov/download-datasets​
+   |             |
 |      |     |             |
 |      |     |             |
 
