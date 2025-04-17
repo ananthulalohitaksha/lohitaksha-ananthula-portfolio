@@ -22,9 +22,7 @@ For user research, I plan to interview frequent meat-eaters who are exploring pl
 |   Gauge response to the call to action.    |        After going through the story, would you consider trying a vegetarian-based meal or something like “Meatless Monday”? What would encourage you to actually give it a try?         |
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
+I interviewed three students in their early 20s. Two are friends from the Master of Information Systems Management (MISM) program, and the third is a classmate from the Master of Public Policy and Management program. All three are regular meat-eaters but expressed varying levels of interest in exploring vegetarian-based meals.
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -34,7 +32,6 @@ Text here!
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
 Text here!
 
