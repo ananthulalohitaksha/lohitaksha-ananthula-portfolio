@@ -24,9 +24,9 @@ For user research, I plan to interview frequent meat-eaters who are exploring pl
 ## Interview findings
 I interviewed three students in their early 20s. Two are friends from the Master of Information Systems Management (MISM) program, and the third is a classmate from the Master of Public Policy and Management program. All three are regular meat-eaters but expressed varying levels of interest in exploring vegetarian-based meals.
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1  | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
+| When you think about protein, do you typically associate it more with meat or vegetarian foods? After seeing this comparison chart, do you feel more confident that vegetarian foods can meet your protein needs? |             |  I usually think of meat first, but seeing soya chunks at the top was surprising. It definitely made me reconsider how powerful veg proteins can be.           |             |
 |                         |                                |             |             |
 |                         |                                |             |             |
 
