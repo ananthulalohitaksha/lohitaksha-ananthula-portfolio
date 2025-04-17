@@ -17,7 +17,7 @@ For user research, I plan to interview frequent meat-eaters who are exploring pl
 | Goal | Questions to Ask |
 |------|------------------|
 |   Understand perceptions of vegetarian vs. meat protein.    |        When you think about protein, do you usually associate it more with meat or vegetarian foods? After seeing this comparison chart, did anything change your perspective?          |
-|      |                  |
+|    Test reactions to vegetarian vs. meat meals.  |         Looking at the breakfast and dinner comparisons, do the vegetarian options seem as satisfying as the meat ones? Why or why not?         |
 |      |                  |
 
 
