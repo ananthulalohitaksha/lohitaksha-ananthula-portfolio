@@ -26,7 +26,7 @@ I interviewed three students in their early 20s. Two are friends from the Master
 
 | Questions               | Interview 1  | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| When you think about protein, do you typically associate it more with meat or vegetarian foods? After seeing this comparison chart, do you feel more confident that vegetarian foods can meet your protein needs? |             |  I usually think of meat first, but seeing soya chunks at the top was surprising. It definitely made me reconsider how powerful veg proteins can be.           |             |
+| When you think about protein, do you typically associate it more with meat or vegetarian foods? After seeing this comparison chart, do you feel more confident that vegetarian foods can meet your protein needs? |        I usually think of meat first, but seeing soya chunks at the top was surprising. It definitely made me reconsider how powerful veg proteins can be.      | HHonestly, I’ve always thought of meat as the main protein source. I had never even heard of paneer before — the chart made me realize I’ve been underestimating vegetarian options like lentils and other foods.           |    Meat comes to mind first, but that soya number was wild. I didn't expect it to outweigh chicken and pork.         |
 |                         |                                |             |             |
 |                         |                                |             |             |
 
