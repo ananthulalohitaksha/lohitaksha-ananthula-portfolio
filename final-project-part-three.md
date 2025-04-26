@@ -32,11 +32,6 @@ My target audience remained the same as defined in Part II: high-meat consumers 
 
 Insights from interviews with three meat-eating graduate students helped shape my focus. All interviewees expressed interest in vegetarian options but highlighted barriers like unfamiliar foods and lack of time to cook. Their input led to several key updates, including simplified language, cost-effective recipes, and structural changes that enhanced both clarity and engagement.
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
-
 ## References
 
 Please visit the ‘References section’ on Shorthand.
