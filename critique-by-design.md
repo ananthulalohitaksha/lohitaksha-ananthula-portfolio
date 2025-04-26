@@ -119,10 +119,10 @@ Overall, this assignment was an engaging and insightful experience. It allowed m
 
 ## References
 
-U.S. Food and Drug Administration. (n.d.). *Spilling the beans: How much caffeine is too much?* [FDA Website](https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much)
+U.S. Food and Drug Administration. (n.d.). *Spilling the beans: How much caffeine is too much?* [Webpage]. U.S. Food and Drug Administration. [https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much](https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much)
 
-Which?. (2023, January 31). *Caffeine levels in high street coffees vary significantly, Which? finds.* [Which? Article](https://www.which.co.uk/news/article/caffeine-levels-in-high-street-coffees-vary-significantly-which-finds-ay7cA4G1zh1S)
+Which?. (2023, January 31). *Caffeine levels in high street coffees vary significantly, Which? finds.* [News article]. Which?. [https://www.which.co.uk/news/article/caffeine-levels-in-high-street-coffees-vary-significantly-which-finds-ay7cA4G1zh1S](https://www.which.co.uk/news/article/caffeine-levels-in-high-street-coffees-vary-significantly-which-finds-ay7cA4G1zh1S)
 
-Kriebel, A. (2023). *How caffeine addiction changed history.* [Watch on YouTube](https://www.youtube.com/watch?v=ybc_8PI0Nus&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK&index=56)
+Kriebel, A. (2023). *How caffeine addiction changed history* [Video]. YouTube. [https://www.youtube.com/watch?v=ybc_8PI0Nus&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK&index=56](https://www.youtube.com/watch?v=ybc_8PI0Nus&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK&index=56)
 
 
