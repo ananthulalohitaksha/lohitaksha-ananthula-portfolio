@@ -28,7 +28,10 @@ After graduation, I aspire to become a Data Scientist. I’m excited to tackle p
 ## Assignment 2: [Critique by Design](critique-by-design)
 
 ## Final project
-1. #[Part I](final-project-part-one)
-2. #[Part II](final-project-part-two)
-3. #[Part III](final-project-part-three)
-4. [#Final Presentation](https://preview.shorthand.com/pUW7gJLq5nUuSiKG)
+## [Part I](final-project-part-one)
+
+## [Part II](final-project-part-two)
+
+## [Part III](final-project-part-three)
+
+## [Final Presentation](https://preview.shorthand.com/pUW7gJLq5nUuSiKG)
