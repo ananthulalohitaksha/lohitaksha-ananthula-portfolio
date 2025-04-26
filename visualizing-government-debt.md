@@ -91,16 +91,7 @@ Overall, the visualization provides a comprehensive view of government debt tren
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Part 2: Working with Tableau</title>
-</head>
-<body>
-
-
 ## References
-1. OECD. Accessed March 22, 2025 https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2023Links to an external site.
-2. Jun SAITO    &nbsp Senior Research Fellow, & SAITO, J. (2018, October 1). Why was Japan struck so hard by the 2008 crisis?. 公益社団法人　日本経済研究センター:Japan Center for Economic Research. https://www.jcer.or.jp/english/why-was-japan-struck-so-hard-by-the-2008-crisisLinks to an external site
+
+1. OECD. Accessed March 22, 2025 https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2023
+2. Jun SAITO &nbsp Senior Research Fellow, & SAITO, J. (2018, October 1). Why was Japan struck so hard by the 2008 crisis?. 公益社団法人　日本経済研究センター:Japan Center for Economic Research. https://www.jcer.or.jp/english/why-was-japan-struck-so-hard-by-the-2008-crisis
