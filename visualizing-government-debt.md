@@ -91,11 +91,17 @@ Overall, the visualization provides a comprehensive view of government debt tren
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-### Part 2: Working with Tableau
+<h2>Part 2: Working with Tableau</h2>
 
-![Heatmap of GDP-to-Debt Ratio Over Time](https://public.tableau.com/static/images/Vi/VisualizingGovernmentDebt_17426937908540/Sheet1/1.png)
+<p>Heatmap showing GDP to Debt Ratio across years:</p>
 
-[View Interactive Tableau Dashboard](https://public.tableau.com/views/VisualizingGovernmentDebt_17426937908540/Sheet1)
+<iframe 
+    src="https://public.tableau.com/views/VisualizingGovernmentDebt_17426937908540/Sheet1?:embed=yes&:display_count=yes" 
+    width="100%" 
+    height="700" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
 
 
 ## References
