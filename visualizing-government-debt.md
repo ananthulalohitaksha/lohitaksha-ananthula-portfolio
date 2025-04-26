@@ -3,7 +3,7 @@
 # Global Government Debt Comparison
 
 ## Part 1: Working with web-based visualization tools and data
-Original visualization from the OECD website.
+This is the original visualization from the OECD website-
 
 <img src="Part%20one.png" alt="Part One" width="800" />
 
