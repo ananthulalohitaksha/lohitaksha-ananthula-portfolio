@@ -1,5 +1,9 @@
 | [Home Page](https://ananthulalohitaksha.github.io/lohitaksha-ananthula-portfolio/) | [Data Viz Examples](dataviz-examples) | [Visualizing Government Debt](visualizing-government-debt) | [Critique By Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
+# Portfolio
+
+This portfolio showcases my work for the Telling Stories with Data course at Carnegie Mellon University.
+
 # About me
 
 Hi! My name is Lohitaksha Ananthula, and I'm currently pursuing a Master's degree in Information Systems Management at Carnegie Mellon University, with a focus on Business Intelligence and Data Analytics. I have a solid foundation in machine learning, data analysis, and predictive modeling. I’ve worked on projects where I engineered data pipelines, developed predictive models for demand forecasting, and created interactive dashboards to visualize insights.
@@ -21,15 +25,10 @@ After graduation, I aspire to become a Data Scientist. I’m excited to tackle p
 
 ## Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 2: [Critique by Design](critique-by-design)
 
 ## Final project
-1. [Part I](final-project-part-one)
-2. [Part II](final-project-part-two)
-3. [Part III](final-project-part-three)
-
-# References
-_List any references you used here._
-
-# AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+1. #[Part I](final-project-part-one)
+2. #[Part II](final-project-part-two)
+3. #[Part III](final-project-part-three)
+4. [#Final Presentation](https://preview.shorthand.com/pUW7gJLq5nUuSiKG)
