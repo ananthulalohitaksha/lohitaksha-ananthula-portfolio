@@ -39,7 +39,6 @@ I interviewed three students in their early 20s. Two are friends from the Master
 | Two interviewees expressed surprise at how high soya’s protein content was.| Include a simple, high-protein dish suggestion using soya chunks (e.g., stir-fry or curry) to connect the chart to a practical recipe idea. |
 | Interviewees were unfamiliar with terms like “vascular disease” and “relative risk.” | Add simple definitions to provide clarity on unfamiliar health terms; briefly explain “relative risk” above the chart. |
 |             All interviewees are open to trying vegeterian meals but wanted simple and quick options.                                                                     | Strengthen the call-to-action with a list of 3–5 quick vegetarian recipes including prep time and cost.
-|                                          |                                                                                 |
 
 ## Additional Thoughts 
 
