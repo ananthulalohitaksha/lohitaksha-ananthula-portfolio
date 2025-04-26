@@ -91,6 +91,12 @@ Overall, the visualization provides a comprehensive view of government debt tren
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+### Part 2: Working with Tableau
+
+![Heatmap of GDP-to-Debt Ratio Over Time](https://public.tableau.com/static/images/Vi/VisualizingGovernmentDebt_17426937908540/Sheet1/1.png)
+
+[View Interactive Tableau Dashboard](https://public.tableau.com/views/VisualizingGovernmentDebt_17426937908540/Sheet1)
+
 
 ## References
 1. OECD. Accessed March 22, 2025 https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2023Links to an external site.
