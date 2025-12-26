@@ -23,15 +23,15 @@ After graduation, I aspire to become a Data Scientist. I’m excited to tackle p
 
 # Portfolio
 
-## Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
+## Assignment 1: [Visualizing Government Debt](visualizing-government-debt.md)
 
-## Assignment 2: [Critique by Design](critique-by-design)
+## Assignment 2: [Critique by Design](critique-by-design.md)
 
 ## Final Project-
-## [Final Project Part I](final-project-part-one)
+## [Final Project Part I](final-project-part-one.md)
 
-## [Final Project Part II](final-project-part-two)
+## [Final Project Part II](final-project-part-two.md)
 
-## [Final Project Part III](final-project-part-three)
+## [Final Project Part III](final-project-part-three.md)
 
 ## [Final Project Presentation](https://preview.shorthand.com/pUW7gJLq5nUuSiKG)
