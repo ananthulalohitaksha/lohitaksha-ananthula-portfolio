@@ -1,6 +1,8 @@
-| [Home Page](https://ananthulalohitaksha.github.io/lohitaksha-ananthula-portfolio/) | [Visualizing Government Debt](visualizing-government-debt) | [Critique By Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
+[Home Page](https://ananthulalohitaksha.github.io/lohitaksha-ananthula-portfolio/) | [Global Debt Dynamics](./visualizing-government-debt.md) | [Critique by Design](./critique-by-design.md) | [Phase I: Discovery](./final-project-part-one.md) | [Phase II: Research](./final-project-part-two.md) | [Phase III: Synthesis](./final-project-part-three.md)
 
-# Outline
+# Phase I: Data Discovery & User Storyboarding
+
+## Outline
 This project explores the nutritional, environmental, and financial benefits of vegetarian-based protein sources. A common myth is that vegetarian diets don’t provide enough protein, but this project aims to clear up that misunderstanding. By examining a variety of plant-based proteins such as lentils, beans, tofu, and paneer, and comparing them to popular animal-based proteins like chicken and beef, the project offers a clear picture of how much protein vegetarian foods can really provide.
 
 The main goal is to show that a well-balanced vegetarian diet can meet daily protein needs. In fact, plant-based proteins offer several health benefits. They can support better overall health, help with weight management, and reduce the risk of chronic diseases such as heart problems, diabetes, and certain types of cancer.
