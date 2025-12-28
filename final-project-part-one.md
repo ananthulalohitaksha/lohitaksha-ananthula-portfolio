@@ -62,7 +62,7 @@ Sources-
 1. Pallotta, N. (2025). 40 High Protein Vegetarian Meals. The Plant Based School. https://theplantbasedschool.com/high-protein-vegetarian-meals/
 2. Momaya, A. (2024, November 22). Protein rich food – vegetarian diet plan, Indian recipes. HealthifyMe. https://www.healthifyme.com/blog/7-high-protein-indian-vegetarian-foods/
 
-# The data 
+## The data 
 
 | Name | URL | Description |
 |------|-----|-------------|
@@ -74,7 +74,7 @@ Sources-
 |   40 High Protein Vegetarian Meals |  Pallotta, N. (2025). 40 High Protein Vegetarian Meals. The Plant Based School. https://theplantbasedschool.com/high-protein-vegetarian-meals/ | This list provides practical meal preparation recipes that incorporate high-protein vegetarian foods. It will serve as a helpful resource for providing meal planning tips to the audience.   |
 |   Meatless Monday |  The Monday Campaigns. (n.d.). Meatless Monday. https://www.mondaycampaigns.org/meatless-monday|  I will provide this link at the end of my story for my audience to explore. This link introduces the concept of Meatless Monday and offers helpful resources, including recipes and toolkits. It also provides an option to subscribe to a monthly newsletter and join the movement.  |
 
-# Method and medium
+## Method and medium
 
 For my final project, I plan to use Shorthand to create a visually engaging, interactive website that presents my research in a storytelling format. I will integrate Tableau for data visualizations, allowing users to explore nutritional, environmental, and financial comparisons more intuitively. Together, these tools will aid in building an informative, user-friendly experience that encourages sustainable, plant-based protein choices.
 
