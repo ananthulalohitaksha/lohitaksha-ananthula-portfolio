@@ -36,9 +36,9 @@ I interviewed three students in their early 20s. Two are friends from the Master
 | After going through the story, would you consider trying a vegetarian-based meal or something like “Meatless Monday”? What would encourage you to actually give it a try?  |        Yeah, I would like try Meatless Monday. A simple weekly plan or grocery list might make it easier to follow through.     | I would try it, but only if I could prep it in under 30 minutes. I don't have a lot of time during the day.     |    I might try it, especially if the protein intake is similar to meat based foods.        |
 
 
-## Identified changes for Part III
+## Identified changes for Phase III
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
+| Research synthesis                       | Anticipated changes for Phase III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Two interviewees expressed surprise at how high soya’s protein content was.| Include a simple, high-protein dish suggestion using soya chunks (e.g., stir-fry or curry) to connect the chart to a practical recipe idea. |
 | Interviewees were unfamiliar with terms like “vascular disease” and “relative risk.” | Add simple definitions to provide clarity on unfamiliar health terms; briefly explain “relative risk” above the chart. |
@@ -46,7 +46,7 @@ I interviewed three students in their early 20s. Two are friends from the Master
 
 ## Additional Thoughts 
 
-Clarification on Meal Comparison Section: The primary goal of the section comparing two breakfast and two dinner options (vegetarian vs. non-vegetarian) was to offer a basic visual and nutritional comparison—specifically focusing on protein content and identifying nutritionally equivalent plant-based substitutes. It was not intended to present full meal plans or include sides, drinks, or additional items that might typically accompany a meal. I understand the interviewee’s feedback about the Beyond Burger not feeling complete without sides like fruit or a drink. This is a valid point in terms of meal satisfaction. However, the focus here was on main protein sources, not the overall plate. Regarding the Beyond Burger: it was chosen because it’s a widely recognized and commercially available plant-based meat substitute. That said, I acknowledge that familiarity with this option varies. Since one interviewee wasn’t aware of it, I may consider including an alternative or adding a quick description for Part III.
+Clarification on Meal Comparison Section: The primary goal of the section comparing two breakfast and two dinner options (vegetarian vs. non-vegetarian) was to offer a basic visual and nutritional comparison—specifically focusing on protein content and identifying nutritionally equivalent plant-based substitutes. It was not intended to present full meal plans or include sides, drinks, or additional items that might typically accompany a meal. I understand the interviewee’s feedback about the Beyond Burger not feeling complete without sides like fruit or a drink. This is a valid point in terms of meal satisfaction. However, the focus here was on main protein sources, not the overall plate. Regarding the Beyond Burger: it was chosen because it’s a widely recognized and commercially available plant-based meat substitute. That said, I acknowledge that familiarity with this option varies. Since one interviewee wasn’t aware of it, I may consider including an alternative or adding a quick description for Phase III.
 
 Lastly, I plan to enhance the visual appeal of the data visualizations and improve the overall Shorthand layout to make the storytelling experience smoother and more engaging. My goal is to ensure the narrative flows well, feels approachable, and captures the attention of my audience.
 
