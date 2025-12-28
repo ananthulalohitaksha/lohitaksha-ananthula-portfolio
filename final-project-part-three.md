@@ -5,7 +5,7 @@
 ## The final data story
 [Protein, Reimagined: The Vegetarian Way](https://preview.shorthand.com/pUW7gJLq5nUuSiKG)
 
-# Iterative Refinement: From Feedback to Final Design 
+## Iterative Refinement: From Feedback to Final Design 
 After completing Phase II, I focused on refining the flow, structure, and clarity of my Shorthand story based on peer feedback and interview insights. I realized that the story had grown quite long, so I added a navigation bar to divide findings into clear sections, making it easier for users to browse. I also introduced section titles before each content block to improve the story’s professionalism and readability.
 
 One of the key slides, addressing the common concern about protein intake on a vegetarian diet, originally felt cluttered due to styling issues. I split it into two slides: one introducing the concern and another conveying how I plan to address this concern. This change made the transition more effective.
@@ -38,7 +38,7 @@ Insights from interviews with three meat-eating graduate students helped shape m
 
 Please visit the ‘References section’ on Shorthand.
 
-# Final thoughts
+## Final thoughts
 
 I'm proud and happy of the final product. While I had previous experience working with Power BI, this project pushed me to explore Tableau for visualizations and Shorthand for storytelling — both of which proved to be powerful tools for communicating data effectively.
 
