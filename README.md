@@ -1,37 +1,37 @@
-[Home Page](https://ananthulalohitaksha.github.io/lohitaksha-ananthula-portfolio/) | [Visualizing Government Debt](visualizing-government-debt.md) | [Critique By Design](critique-by-design.md) | [Final Project I](final-project-part-one.md) | [Final Project II](final-project-part-two.md) | [Final Project III](final-project-part-three.md)
+[Home Page](https://ananthulalohitaksha.github.io/lohitaksha-ananthula-portfolio/) | [Visualizing Government Debt](./visualizing-government-debt) | [Critique By Design](./critique-by-design) | [Final Project I](./final-project-part-one) | [Final Project II](./final-project-part-two) | [Final Project III](./final-project-part-three)
 
-# Portfolio
+# Data Storytelling & Analytics Portfolio
 
-This portfolio showcases my work for the Telling Stories with Data course at Carnegie Mellon University.
+Welcome! This portfolio features a series of data-driven narratives and design critiques developed during my graduate studies at **Carnegie Mellon University**. My work focuses on bridging the gap between complex datasets and human-centered design to drive informed decision-making.
 
-# About me
+---
 
-Hi! My name is Lohitaksha Ananthula, and I'm currently pursuing a Master's degree in Information Systems Management at Carnegie Mellon University, with a focus on Business Intelligence and Data Analytics. I have a solid foundation in machine learning, data analysis, and predictive modeling. I’ve worked on projects where I engineered data pipelines, developed predictive models for demand forecasting, and created interactive dashboards to visualize insights.
+## 🚀 Featured Story: [Protein, Reimagined: The Vegetarian Way](https://preview.shorthand.com/pUW7gJLq5nUuSiKG)
+**Core Focus:** Health & Environmental Sustainability
+*An interactive, long-form narrative created in Shorthand exploring the nutritional viability and environmental benefits of plant-based protein. This project integrates complex data on GHG emissions, amino acid profiles, and cost-benefit analyses into an engaging user experience.*
 
-I’m passionate about healthcare data analytics. I aim to leverage my expertise in data science and machine learning to enhance patient care, optimize operational efficiency, and support data-driven decision-making in the healthcare sector.
+---
 
-Apart from my academic and professional pursuits, I love hiking and playing cricket.
+## 📊 Design & Analytics Case Studies
 
-# What I hope to learn
-Through this course, I want to be able to:
+### 01. [Global Fiscal Health: Visualizing Government Debt](./visualizing-government-debt)
+**Goal:** Identifying global economic trends following the 2008 financial crisis.
+* **Techniques:** Heatmaps, Bubble Charts, and Time-Series Analysis.
+* **Outcome:** Developed an interactive Tableau dashboard that highlights the divergent recovery paths of major economies, with a specific focus on the resilience of export-heavy markets.
 
-1. Effectively use data visualization techniques to tell compelling stories to my audience.
-2. Craft narratives using data that make complex topics more accessible.
-3. Gain hands-on experience with tools and techniques to create interactive data visualizations.
+### 02. [Iterative Design: Coffee Caffeine Content Critique](./critique-by-design)
+**Goal:** Redesigning a complex table into a user-centric interactive tool.
+* **Techniques:** User Research (Interviews), Wireframing, and Interactive Filtering.
+* **Outcome:** Transformed a static table into a personalized caffeine tracker. This case study details the full UX process—from initial critique and student interviews to a finalized, high-contrast Tableau visualization that alerts users when they exceed safe caffeine thresholds.
 
-After graduation, I aspire to become a Data Scientist. I’m excited to tackle projects that involve data science and machine learning. I look forward to working with diverse teams and continuing to deepen my technical skills while making a tangible impact.
+---
 
-# Portfolio
+## 🛠 Project Lifecycle Mastery
+My portfolio demonstrates proficiency in the end-to-end data storytelling process:
+1.  **Exploratory Data Analysis (EDA):** Extracting insights from public datasets (OECD, USDA, FDA).
+2.  **Design Critique:** Evaluating visualizations for clarity, accessibility, and intuitive design.
+3.  **User Research:** Conducting interviews to validate wireframes and refine visual hierarchy.
+4.  **Final Synthesis:** Deploying interactive stories using **Tableau**, **Shorthand**, and **Python**.
 
-## Assignment 1: [Visualizing Government Debt](visualizing-government-debt.md)
+---
 
-## Assignment 2: [Critique by Design](critique-by-design.md)
-
-## Final Project
-## [Final Project Part I](final-project-part-one.md)
-
-## [Final Project Part II](final-project-part-two.md)
-
-## [Final Project Part III](final-project-part-three.md)
-
-## [Final Project Presentation](https://preview.shorthand.com/pUW7gJLq5nUuSiKG)
