@@ -1,4 +1,4 @@
-[Home Page](https://ananthulalohitaksha.github.io/lohitaksha-ananthula-portfolio/) | [Global Debt Dynamics](./visualizing-government-debt.md) | [Critique by Design](./critique-by-design.md) | [Phase I: Discovery](./final-project-part-one.md) | [Phase II: Research](./final-project-part-two.md) | [Phase III: Synthesis](./final-project-part-three.md)
+[Home Page](https://ananthulalohitaksha.github.io/lohitaksha-ananthula-portfolio/) | [Global Debt Dynamics](./global-debt-dynamics.md) | [Critique by Design](./critique-by-design.md) | [Phase I: Discovery](./phase-one.md) | [Phase II: Research](./phase-two.md) | [Phase III: Synthesis](./phase-three.md)
 
 # Phase III: Final Synthesis & Deployment
 
