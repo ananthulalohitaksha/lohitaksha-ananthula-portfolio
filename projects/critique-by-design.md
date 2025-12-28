@@ -1,4 +1,4 @@
-[Home Page](https://ananthulalohitaksha.github.io/lohitaksha-ananthula-portfolio/) | [Global Debt Dynamics](./visualizing-government-debt.md) | [Critique by Design](./critique-by-design.md) | [Phase I: Discovery](./final-project-part-one.md) | [Phase II: Research](./final-project-part-two.md) | [Phase III: Synthesis](./final-project-part-three.md)
+[Home Page](https://ananthulalohitaksha.github.io/lohitaksha-ananthula-portfolio/) | [Global Debt Dynamics](./global-debt-dynamics.md) | [Critique by Design](./critique-by-design.md) | [Phase I: Discovery](./phase-one.md) | [Phase II: Research](./phase-two.md) | [Phase III: Synthesis](./phase-three.md)
 
 # Critique by Design: Coffee Caffeine Tracker
 
@@ -6,7 +6,7 @@
 
 While exploring various articles on the Makeover Monday website, I came across the "High Street Coffee Caffeine Content Compared" visualization, which illustrated caffeine levels across popular coffee chains. I selected this particular data visualization as I was looking for a graphic that conveyed an important message but lacked effective visualization. The visualization stood out because it provided valuable insights for coffee drinkers, helping them understand how much caffeine they consume from different coffee chains.
 
-<img src="Original%20Visualization.png" alt="Original Visualization" width="900" />
+<img src="../images/Original Visualization.png" alt="Original Visualization" width="900" />
 
 Source: [Which?](https://www.which.co.uk/news/article/caffeine-levels-in-high-street-coffees-vary-significantly-which-finds-ay7cA4G1zh1S)  
 
@@ -34,7 +34,7 @@ As I worked through my critique of the "High Street Coffee Caffeine Content" vis
 
 However, I didn’t post my redesign on Tableau Public yet, as I wasn’t fully confident in the final version. I wanted to take the time to gather feedback by conducting interviews and adding my own thoughts further to work on the final redesign. Here is my sketch:
 
-<img src="Redesign%20Draft1.png" alt="Redesign Draft1" width="900" />
+<img src="../images/Redesign Draft1.png" alt="Redesign Draft1" width="900" />
 
 ## Step 4: User Research & Usability Testing
 
@@ -101,7 +101,7 @@ Based on the feedback, I plan to implement some design changes to improve the vi
 
 ## Step 5: Final Synthesis & Deployment
 
-<img src="Final%20Design.png" alt="Final Design" width="900" />
+<img src="../images/Final Design.png" alt="Final Design" width="900" />
 
 [Tableau Link-](https://public.tableau.com/views/CritiqueandRedesign_Lohitaksha/BarChart_FinalVersion?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
