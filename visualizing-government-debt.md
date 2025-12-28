@@ -45,7 +45,7 @@ Heatmap of GDP-to-Debt Ratio Over Time-
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-## Part 3: Create your own visualization
+## Part 3: Final Redesign — Identifying Global Crisis Trends (2009–2012)
 After reviewing the original dataset and visualization, the first thought that came to my mind was to analyze the impact of the global financial crisis (2007-2008) and its aftermath on the debt-to-GDP ratio from 2009 to 2012. Initially, I considered focusing on the five most impacted countries, but then I realized that the dataset would be too small. Therefore, I decided to include all countries and observe the broader impact.
 
 I chose a bubble chart to visualize the data. The title of the chart is: "Government Debt Trends: The Global Financial Crisis and Its Aftermath (2009-2012)". This title captures the essence of the analysis. I also added a filter for specific years, allowing users to explore individual years or view the data for all years combined. When multiple years are studied, I used the average aggregation.
