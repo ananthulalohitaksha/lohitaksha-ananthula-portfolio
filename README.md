@@ -1,4 +1,4 @@
-[Home Page](https://ananthulalohitaksha.github.io/lohitaksha-ananthula-portfolio/) | [Global Government Debt Comparison](./visualizing-government-debt.md) | [Critique by Design](./critique-by-design.md) | [Final Project I](./final-project-part-one.md) | [Final Project II](./final-project-part-two.md) | [Final Project III](./final-project-part-three.md)
+[Home Page](https://ananthulalohitaksha.github.io/lohitaksha-ananthula-portfolio/) | [Global Fiscal Health](./visualizing-government-debt.md) | [Critique by Design](./critique-by-design.md) | [Phase I: Discovery](./final-project-part-one.md) | [Phase II: Research](./final-project-part-two.md) | [Phase III: Synthesis](./final-project-part-three.md)
 
 # Data Storytelling & Analytics Portfolio
 
