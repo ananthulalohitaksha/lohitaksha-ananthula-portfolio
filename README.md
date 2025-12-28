@@ -15,12 +15,12 @@ An interactive, long-form narrative created in Shorthand exploring the nutrition
 
 ## 📊 Design & Analytics Case Studies
 
-### 01. [Global Fiscal Health: Visualizing Government Debt](./visualizing-government-debt)
+### 1. [Global Fiscal Health: Visualizing Government Debt](./visualizing-government-debt)
 **Goal:** Identifying global economic trends following the 2008 financial crisis.
 * **Techniques:** Heatmaps, Bubble Charts, and Time-Series Analysis.
 * **Outcome:** Developed an interactive Tableau dashboard that highlights the divergent recovery paths of major economies, with a specific focus on the resilience of export-heavy markets.
 
-### 02. [Iterative Design: Coffee Caffeine Content Critique](./critique-by-design)
+### 2. [Iterative Design: Coffee Caffeine Content Critique](./critique-by-design)
 **Goal:** Redesigning a complex table into a user-centric interactive tool.
 * **Techniques:** User Research (Interviews), Wireframing, and Interactive Filtering.
 * **Outcome:** Transformed a static table into a personalized caffeine tracker. This case study details the full UX process—from initial critique and student interviews to a finalized, high-contrast Tableau visualization that alerts users when they exceed safe caffeine thresholds.
