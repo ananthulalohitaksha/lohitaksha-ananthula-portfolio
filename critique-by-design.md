@@ -1,8 +1,8 @@
 | [Home Page](https://ananthulalohitaksha.github.io/lohitaksha-ananthula-portfolio/) | [Visualizing Government Debt](visualizing-government-debt) | [Critique By Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
-# Critique by Design
+# Critique by Design: Coffee Caffeine Tracker
 
-## Step one: the visualization
+## Step 1: The Design Context
 
 While exploring various articles on the Makeover Monday website, I came across the "High Street Coffee Caffeine Content Compared" visualization, which illustrated caffeine levels across popular coffee chains. I selected this particular data visualization as I was looking for a graphic that conveyed an important message but lacked effective visualization. The visualization stood out because it provided valuable insights for coffee drinkers, helping them understand how much caffeine they consume from different coffee chains.
 
@@ -10,7 +10,7 @@ While exploring various articles on the Makeover Monday website, I came across t
 
 Source: [Which?](https://www.which.co.uk/news/article/caffeine-levels-in-high-street-coffees-vary-significantly-which-finds-ay7cA4G1zh1S)  
 
-## Step two: the critique
+## Step 2: Heuristic Evaluation & Critique
 
 As I assessed the "High Street Coffee Caffeine Content" visualization, I realized it effectively conveyed important information but still had areas for improvement. Here is my critique-
 
@@ -28,7 +28,7 @@ This visualization is moderately effective for the audience because it provides 
 
 In my redesign, I plan to move from a table format to a horizontal bar chart, which can make the information more visually engaging and easier to compare at a glance. I might explore using coffee chain logos to make the visualization more appealing. I also plan to reorganize the data by grouping the coffee drinks based on the highest caffeine content, rather than sorting them alphabetically by chain. To provide better context, I would include a reference line indicating the FDA/health authority’s recommended caffeine limit of 400 mg per day. Furthermore, I plan on incorporating a dropdown filter that allows users to select the type of coffee, the desired number of cups, and even customize the drink size. This would involve some mathematical calculations to ensure accuracy. I believe these changes could enhance both the clarity and the overall impact of the visualization.
 
-## Step three: Sketch a solution
+## Step 3: Rapid Prototyping & Low-Fi Sketch
 
 As I worked through my critique of the "High Street Coffee Caffeine Content" visualization, I initially thought it would be fairly easy to improve. However, as I started redesigning it, I realized that the changes I wanted to make, especially with the custom calculations and dropdown menus, felt more challenging than expected. Despite these challenges, I created a sketch for my redesign. My goal was to move away from the table format and use a more intuitive bar chart.
 
@@ -36,7 +36,7 @@ However, I didn’t post my redesign on Tableau Public yet, as I wasn’t fully 
 
 <img src="Redesign%20Draft1.png" alt="Redesign Draft1" width="900" />
 
-## Step four: Test the solution
+## Step 4: User Research & Usability Testing
 
 I interviewed two students in their early 20s—one from the Master of Information Systems Management program and another, an undergraduate Computer Science student.
 
@@ -99,7 +99,7 @@ Define the threshold with a numerical value. Use a different color scheme to hig
 Both the interviewees found the threshold line slightly confusing due to the lack of x-axis labels and numerical values. One of them also pointed out that the dropdown menu design could be improved for a more polished look. One interviewee suggested using color differentiation to indicate when caffeine intake exceeds the limit, which could make the visualization more intuitive. I felt that all these inputs were valuable and something I could incorporate to enhance the visual appeal.
 Based on the feedback, I plan to implement some design changes to improve the visualization. Adding x-axis labels and a numerical value to the threshold line will provide better context. Using color differentiation to highlight excessive caffeine intake will make the visualization more intuitive. These improvements will enhance clarity and the overall effectiveness of the visualization for consumers tracking their caffeine intake.
 
-## Step five: build the solution
+## Step 5: Final Synthesis & Deployment
 
 <img src="Final%20Design.png" alt="Final Design" width="900" />
 
