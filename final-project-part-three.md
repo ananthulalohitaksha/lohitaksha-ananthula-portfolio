@@ -1,10 +1,12 @@
-| [Home Page](https://ananthulalohitaksha.github.io/lohitaksha-ananthula-portfolio/) | [Visualizing Government Debt](visualizing-government-debt) | [Critique By Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
+[Home Page](https://ananthulalohitaksha.github.io/lohitaksha-ananthula-portfolio/) | [Global Debt Dynamics](./visualizing-government-debt.md) | [Critique by Design](./critique-by-design.md) | [Phase I: Discovery](./final-project-part-one.md) | [Phase II: Research](./final-project-part-two.md) | [Phase III: Synthesis](./final-project-part-three.md)
 
-# The final data story
+# Phase III: Final Synthesis & Deployment
+
+## The final data story
 [Protein, Reimagined: The Vegetarian Way](https://preview.shorthand.com/pUW7gJLq5nUuSiKG)
 
-# Changes made since Part II
-After completing Part II, I focused on refining the flow, structure, and clarity of my Shorthand story based on peer feedback and interview insights. I realized that the story had grown quite long, so I added a navigation bar to divide findings into clear sections, making it easier for users to browse. I also introduced section titles before each content block to improve the story’s professionalism and readability.
+# Iterative Refinement: From Feedback to Final Design 
+After completing Phase II, I focused on refining the flow, structure, and clarity of my Shorthand story based on peer feedback and interview insights. I realized that the story had grown quite long, so I added a navigation bar to divide findings into clear sections, making it easier for users to browse. I also introduced section titles before each content block to improve the story’s professionalism and readability.
 
 One of the key slides, addressing the common concern about protein intake on a vegetarian diet, originally felt cluttered due to styling issues. I split it into two slides: one introducing the concern and another conveying how I plan to address this concern. This change made the transition more effective.
 
@@ -28,7 +30,7 @@ Overall, I believe these choices helped clearly differentiate between protein ty
 
 ## The audience
 
-My target audience remained the same as defined in Part II: high-meat consumers open to reducing meat intake for health, environmental, or personal reasons. Early in the project, I considered addressing a broader audience, but realized that trying to convince committed meat-eaters would likely be ineffective. Instead, I focused on those already contemplating dietary change, where the story could make a real impact.
+My target audience remained the same as defined in Phase II: high-meat consumers open to reducing meat intake for health, environmental, or personal reasons. Early in the project, I considered addressing a broader audience, but realized that trying to convince committed meat-eaters would likely be ineffective. Instead, I focused on those already contemplating dietary change, where the story could make a real impact.
 
 Insights from interviews with three meat-eating graduate students helped shape my focus. All interviewees expressed interest in vegetarian options but highlighted barriers like unfamiliar foods and lack of time to cook. Their input led to several key updates, including simplified language, cost-effective recipes, and structural changes that enhanced both clarity and engagement.
 
