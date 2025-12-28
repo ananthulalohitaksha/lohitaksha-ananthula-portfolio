@@ -4,17 +4,19 @@
 
 ## Wireframes / storyboards
 
+I developed a digital storyboard in **Shorthand** to map the user journey from initial skepticism to final action (Meatless Monday adoption).
+
 [Link to Shorthand](https://preview.shorthand.com/pUW7gJLq5nUuSiKG)  
 
-# User research 
+## User research 
 
-## Target audience
+### Target audience
 
 My story is designed to reach high-meat consumers who are open to cutting back for health, environmental, or personal reasons. A common hesitation among this group is concern about getting enough protein. The goal is to help them take a first step toward a more plant-forward diet by showing that vegetarian meals can be protein-rich and easy to prepare.
 
 For user research, I plan to interview frequent meat-eaters who are exploring plant-based options. I’ll reach out to friends and classmates who regularly eat meat, including those who have expressed interest in cutting back or are simply open to learning more about vegetarian alternatives. These interviews will offer valuable insights into the concerns, motivations, and reactions of the intended audience.
 
-## Interview script
+### Interview script
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -23,7 +25,7 @@ For user research, I plan to interview frequent meat-eaters who are exploring pl
 |    Evaluate clarity and impact of the health benefits data.  |            Does the chart showing health benefits of a vegetarian diet make the message clear? Was anything in it confusing or hard to trust? What would help you feel more confident in the information?     |
 |   Gauge response to the call to action.    |        After going through the story, would you consider trying a vegetarian-based meal or something like “Meatless Monday”? What would encourage you to actually give it a try?         |
 
-## Interview findings
+### Interview findings
 I interviewed three students in their early 20s. Two are friends from the Master of Information Systems Management (MISM) program, and the third is a classmate from the Master of Public Policy and Management program. All three are regular meat-eaters but expressed varying levels of interest in exploring vegetarian-based meals.
 
 | Questions               | Interview 1  | Interview 2 | Interview 3 |
@@ -34,7 +36,7 @@ I interviewed three students in their early 20s. Two are friends from the Master
 | After going through the story, would you consider trying a vegetarian-based meal or something like “Meatless Monday”? What would encourage you to actually give it a try?  |        Yeah, I would like try Meatless Monday. A simple weekly plan or grocery list might make it easier to follow through.     | I would try it, but only if I could prep it in under 30 minutes. I don't have a lot of time during the day.     |    I might try it, especially if the protein intake is similar to meat based foods.        |
 
 
-# Identified changes for Part III
+## Identified changes for Part III
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
