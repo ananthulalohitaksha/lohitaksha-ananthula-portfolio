@@ -8,7 +8,8 @@ Welcome! This portfolio features a series of data-driven narratives and design c
 
 ## 🚀 Featured Story: [Protein, Reimagined: The Vegetarian Way](https://preview.shorthand.com/pUW7gJLq5nUuSiKG)
 **Core Focus:** Health & Environmental Sustainability
-*An interactive, long-form narrative created in Shorthand exploring the nutritional viability and environmental benefits of plant-based protein. This project integrates complex data on GHG emissions, amino acid profiles, and cost-benefit analyses into an engaging user experience.*
+
+An interactive, long-form narrative created in Shorthand exploring the nutritional viability and environmental benefits of plant-based protein. This project integrates complex data on GHG emissions, amino acid profiles, and cost-benefit analyses into an engaging user experience.
 
 ---
 
