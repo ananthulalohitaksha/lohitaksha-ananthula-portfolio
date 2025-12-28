@@ -1,4 +1,4 @@
-[Home Page](https://ananthulalohitaksha.github.io/lohitaksha-ananthula-portfolio/) | [Global Fiscal Health](./visualizing-government-debt.md) | [Critique by Design](./critique-by-design.md) | [Phase I: Discovery](./final-project-part-one.md) | [Phase II: Research](./final-project-part-two.md) | [Phase III: Synthesis](./final-project-part-three.md)
+[Home Page](https://ananthulalohitaksha.github.io/lohitaksha-ananthula-portfolio/) | [Global Debt Dynamics](./visualizing-government-debt.md) | [Critique by Design](./critique-by-design.md) | [Phase I: Discovery](./final-project-part-one.md) | [Phase II: Research](./final-project-part-two.md) | [Phase III: Synthesis](./final-project-part-three.md)
 
 # Data Storytelling & Analytics Portfolio
 
@@ -21,7 +21,7 @@ The final product was developed through a rigorous three-stage iterative design 
 
 ## 📊 Design & Analytics Case Studies
 
-### 1. [Global Fiscal Health: Visualizing Government Debt](./visualizing-government-debt.md)
+### 1. [Global Debt Dynamics: Visualizing Government Debt](./visualizing-government-debt.md)
 **Goal:** Identifying global economic trends following the 2008 financial crisis.
 * **Techniques:** Heatmaps, Bubble Charts, and Time-Series Analysis.
 * **Outcome:** Developed an interactive Tableau dashboard that highlights the divergent recovery paths of major economies, with a specific focus on the resilience of export-heavy markets.
